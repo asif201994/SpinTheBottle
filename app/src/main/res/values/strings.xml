@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SpinTheBottle</string>
+    <string-array name="bubble">
+        <item>Pinku</item>
+        <item>Chomu</item>
+        <item>Chintu</item>
+        <item>Champak</item>
+        <item>Pappu</item>
+        <item>Tingu</item>
+        <item>Chinta</item>
+        <item>Tuta</item>
+        <item>Futa</item>
+        <item>Sutta</item>
+    </string-array>
+</resources>
